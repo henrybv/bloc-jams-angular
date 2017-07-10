@@ -1,3 +1,3 @@
-## Bloc Jams Angular Source Project
+## Bloc Jams Angular Project
 
-Source code for project exploring AngularJS in Bloc Frontend Web Development Course.
+Bloc Jams, a music appliation made with Angular, JavaScript and other modern web technologies. Made with dedication to teach engineering students @Bloc.io
